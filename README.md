@@ -18,6 +18,10 @@ Required Priviliged Intents: Server Members (`GUILD_MEMBERS`)
 
 Encounter any bugs? Open an issue!
 
+## Disclaimer
+
+I do not accept any responsibility if this code is used for any malicious or unlawful purposes.
+
 ## Author
 
 **Discord-Image-Logger** © [Asad Humayun](https://github.com/asadhumayun).
