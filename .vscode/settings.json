@@ -1,0 +1,10 @@
+{
+		"editor.detectIndentation": false,
+		"editor.insertSpaces": false,
+		"editor.tabSize": 2,
+		"javascript.updateImportsOnFileMove.enabled": "prompt",
+		"editor.codeActionsOnSave": {
+			"source.fixAll": true,
+			"source.organizeImports": false
+		}
+  }
