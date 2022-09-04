@@ -12,7 +12,7 @@ This is a Discord bot designed to log deleted images and send those to a particu
 - Doesn't crash on uncaught exceptions
 
 ## Intents
-Required Priviliged Intents: Server Members (`GUILD_MEMBERS`)
+Required Priviliged Intents: Server Members (`GUILD_MEMBERS`) **and** Message Content (`MESSAGE_CONTENT`)
 
 ## Bugs
 
