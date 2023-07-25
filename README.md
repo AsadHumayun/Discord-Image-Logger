@@ -49,7 +49,7 @@ Once done, run `node index.js` to start the bot. You can do this by either click
 
 
 ## Support
-If anybody needs help with this, feel free to open an issue on GitHub and I will get back to youy as soon as I can. 
+If anybody needs help with this, feel free to open an issue on GitHub and I will get back to you as soon as I can. 
 
 ## Author
 
